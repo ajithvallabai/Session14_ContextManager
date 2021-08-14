@@ -65,7 +65,7 @@ def test_goal4():
     assert popular_car["male"] == ["Ford"], "Please check your implementation"
     assert popular_car["female"] == ["Ford","Chevrolet"], "Please check your implementation"
     print("Popular car among men",popular_car["male"])
-    print("Popular car among women",popular_car["femal"])
+    print("Popular car among women",popular_car["female"])
     print("Goal 4 is satisfied")
 
 
